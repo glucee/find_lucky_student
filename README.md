@@ -10,4 +10,4 @@ After first round, remaining students don't change their position and continue t
 
 ## Answer
 
-Run the script and input the student number, you will get the positoin of lucky student.
+Copy the script to https://www.online-python.com/ and run it. Just input the student number, you will get the positoin of lucky student.
